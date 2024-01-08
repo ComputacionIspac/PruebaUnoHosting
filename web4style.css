@@ -1,0 +1,55 @@
+body { 
+background-color: #FAE6F9;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('adelia.otf') format('opentype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Calibri';
+  src: url('Nightcore Demo.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'impact';
+  src: url('Ketupat Ramadhan.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('HFHourglass.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+h1 {
+font-family: 'Arial';
+src: url('HFHourglass.ttf') format('truetype');
+color: #8C058E;
+font-size: 30px;  
+}
+
+p { 
+font-family: 'Arial';
+color: #840EF4;  
+font-size: 12px;   
+}
+
+.destacado {
+color: #57F40E; 
+}
+
+.practik {
+color: #CE0EF4;
+}
+
+
